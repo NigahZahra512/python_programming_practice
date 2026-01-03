@@ -1,0 +1,3 @@
+My name is Nigah .
+Student of CS.
+I am currently studying python programming.
