@@ -1,0 +1,44 @@
+[
+    {
+        "sku": "SHIRT-001",
+        "name": "Blue Kurta",
+        "category": "Clothing",
+        "price": 1500,
+        "image_url": null
+    },
+    {
+        "sku": "SHOE-001",
+        "name": "Nike Air",
+        "category": "Footwear",
+        "price": 2500,
+        "image_url": null
+    },
+    {
+        "sku": "232",
+        "name": "choes",
+        "category": "footwaer",
+        "price": 560.0,
+        "image_url": "https://cdn.cloudstorage.com/images/shoes.jpg"
+    },
+    {
+        "sku": "4331",
+        "name": "kurta",
+        "category": "clothing",
+        "price": 7800.0,
+        "image_url": "https://cdn.cloudstorage.com/images/kurta.jpg"
+    },
+    {
+        "sku": "Shirt-001",
+        "name": "Blue Kurta",
+        "category": "Clothing",
+        "price": 1500,
+        "image_url": null
+    },
+    {
+        "sku": "Shoe-001",
+        "name": "Nike Air",
+        "category": "Footwear",
+        "price": 2500,
+        "image_url": null
+    }
+]
